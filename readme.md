@@ -1,4 +1,4 @@
-#Tree Command
+# Tree command
 
 Tree command in javascript (node.js)
 <br>
